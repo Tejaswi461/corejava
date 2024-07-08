@@ -1,4 +1,4 @@
-package com.tns.scannerclass;
+package com.tns.scannerclass; 
 
 public class Taxcalculation {
 	
