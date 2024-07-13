@@ -1,16 +1,18 @@
 package com.tns.markerinterface;
 
-public class MarkerDemo {
-	
+public class MakerDemo {
 	public static void main(String[] args) {
 		
-		Student ob=new Student(504,"Tejaswi","cse");
+		Student ob=new Student(511,"Tejaswi","cse");
+		
 		if(ob instanceof Register)
 			
-			System.out.println("Student is registered");
+			System.out.println("student is registered");
+		
 		else
 			System.out.println("student is not registered");
-		
+			
+			
 	}
 
 }
